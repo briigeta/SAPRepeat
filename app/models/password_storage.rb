@@ -1,0 +1,2 @@
+class PasswordStorage < ApplicationRecord
+end
